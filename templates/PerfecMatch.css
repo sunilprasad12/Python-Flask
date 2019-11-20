@@ -1,0 +1,28 @@
+body{
+
+	background: url(Kutch.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+h1, h3{
+
+	color: white;
+
+}
+
+
+hr{
+
+	width: 300px;
+}
+
+
+#Content{
+
+	text-align: center;
+	padding-top: 40%;
+
+    
+}
+
